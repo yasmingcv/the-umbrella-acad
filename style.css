@@ -9,6 +9,7 @@ header{
 }
 .logo-netflix{
     height: 100px;
+    width: 150px;
 }
 div{
     height: 4px;
@@ -78,6 +79,27 @@ main{
     padding-left: 270px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+.luther{
+    color: white;
+}
+.diego{
+    color: white;
+}
+.alisson{
+    color: white;
+}
+.klaus{
+    color: white;
+}
+.cinco{
+    color: white;
+}
+.ben{
+    color:white;
+}
+.vanya{
+    color: white;
+}
 .txt5{
     width: 700px;
     font-size: 20px;
@@ -101,4 +123,7 @@ footer{
     padding-bottom: 50px;
     padding-top: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.yasmin{
+    color: white;
 }
