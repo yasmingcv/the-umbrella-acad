@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    background-color: black;
+}
+.logo-netflix{
+    height: 100px;
+}
+div{
+    height: 4px;
+    background-color: red;
+}
+.intro-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main{
+    height: 2500px;
+    background-color: black;
+}
+.logo2{
+    height: 400px;
+}
+.txt1{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.txt2{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cont-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.reginald{
+    padding-top: 50px;
+    height: 400px;
+}
+.txt3{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.grace{
+    height: 340px;
+}
+.txt4{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.personagens{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 50px;
+    padding-left: 270px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.txt5{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.integrantes{
+    width: 700px;
+}
+footer{
+    background-color: red;
+}
+.copyright{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
