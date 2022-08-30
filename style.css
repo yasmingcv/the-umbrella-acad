@@ -2,16 +2,18 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: black;
 }
 header{
-    height: 100px;
-    background-color: black;
+    height: 120px;
+    width: 100%;
 }
 .logo-netflix{
     height: 100px;
     width: 150px;
+    padding-top: 15px;
 }
-div{
+.linha{
     height: 4px;
     background-color: red;
 }
@@ -21,11 +23,10 @@ div{
     align-items: center;
 }
 main{
-    height: 2500px;
     background-color: black;
 }
 .logo2{
-    height: 400px;
+    width: 50vw;
 }
 .txt1{
     width: 700px;
@@ -126,4 +127,36 @@ footer{
 }
 .yasmin{
     color: white;
+}
+
+@media (max-width:640px) {
+    .intro-container{
+        padding-left: 50%;
+        width: 20vw;
+    }
+    .txt1{
+        width: 90vw;
+    }
+    .txt2{
+        width: 90vw;
+    }
+    .cont-container{
+        padding-left: 50%;
+        width: 20vw;
+    }
+    .reginald{
+       width: 90vw;
+       height: auto;
+    }
+    .txt3{
+        width: 90vw;
+    }
+    .grace{
+        width: 90vw;
+        height: auto;
+    }
+    .integrantes{
+        width: 90vw;
+        height: auto;
+    }
 }
