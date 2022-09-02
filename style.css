@@ -134,6 +134,9 @@ footer{
         margin-right: 0;
         padding-right: 0;
     }
+    .linha{
+        width: 100%;
+    }
     .intro-container{
         padding-left: 50%;
         width: 20vw;
